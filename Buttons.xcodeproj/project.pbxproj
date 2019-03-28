@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		382EDDDF224D6A8A0027F43D /* ExportOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 382EDDDE224D6A8A0027F43D /* ExportOptions.plist */; };
 		B08B82CC213971B900AC4E98 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08B82CB213971B900AC4E98 /* AppDelegate.swift */; };
 		B08B82CE213971B900AC4E98 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08B82CD213971B900AC4E98 /* ViewController.swift */; };
 		B08B82D1213971B900AC4E98 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B08B82CF213971B900AC4E98 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		382EDDDE224D6A8A0027F43D /* ExportOptions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ExportOptions.plist; sourceTree = "<group>"; };
 		B08B82C8213971B900AC4E98 /* Buttons.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Buttons.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B08B82CB213971B900AC4E98 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B08B82CD213971B900AC4E98 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		B08B82CA213971B900AC4E98 /* Buttons */ = {
 			isa = PBXGroup;
 			children = (
+				382EDDDE224D6A8A0027F43D /* ExportOptions.plist */,
 				B08B82CB213971B900AC4E98 /* AppDelegate.swift */,
 				B08B82CD213971B900AC4E98 /* ViewController.swift */,
 				B08B82CF213971B900AC4E98 /* Main.storyboard */,
@@ -180,6 +183,7 @@
 				B08B82D6213971BC00AC4E98 /* LaunchScreen.storyboard in Resources */,
 				B08B82D3213971BC00AC4E98 /* Assets.xcassets in Resources */,
 				B08B82D1213971B900AC4E98 /* Main.storyboard in Resources */,
+				382EDDDF224D6A8A0027F43D /* ExportOptions.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
